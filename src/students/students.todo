@@ -1,0 +1,6 @@
+# Regras de negócio para estudantes
+
+Regras:
+  [V] Devemos conseguir somar as notas dos alunos
+  [V] Se caso uma nota for zero, a soma deve retornar zero
+  [V] Caso o aluno tenha mais de cinco notas a soma deve ser multiplicada por 2
